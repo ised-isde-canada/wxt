@@ -183,11 +183,7 @@
         "post-install-cmd": [
             "@composer drupal-scaffold"
         ],
-        "post-update-cmd": [
-            "@composer package"
-        ],
         "drupal-scaffold": "DrupalComposer\\DrupalScaffold\\Plugin::scaffold",
-        "package": "Drupal\\wxt\\Composer\\Package::execute",
         "release-version": "Drupal\\wxt\\Composer\\ReleaseVersion::execute",
         "verify-patched-constraints": "Drupal\\wxt\\Composer\\PatchedConstraint::execute"
     },
