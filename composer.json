@@ -408,7 +408,8 @@
         "wet-boew/theme-gc-intranet": "4.0.27",
         "wet-boew/theme-gcwu-fegc": "4.0.27",
         "wet-boew/theme-gcweb": "4.0.27",
-        "wet-boew/theme-ogpl": "4.0.27"
+        "wet-boew/theme-ogpl": "4.0.27",
+        "drupal/google_tag": "^1.0"
     },
     "autoload": {
         "psr-4": {
