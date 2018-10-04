@@ -411,7 +411,9 @@
         "wet-boew/theme-ogpl": "4.0.27",
         "drupal/google_tag": "^1.0",
         "drupal/keycloak": "^1.0",
-        "drupal/content_access": "^1.0"
+        "drupal/content_access": "^1.0",
+        "drupal/chatbot_api": "^1.0",
+        "drupal/api_ai_webhook": "^1.0"
     },
     "autoload": {
         "psr-4": {
